@@ -1,6 +1,6 @@
 ---
 info:
-    title: {modTitle}
+    title: Stakeholder management
 
 keywords:
 ---
