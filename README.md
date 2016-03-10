@@ -1,6 +1,6 @@
 ---
 course info:
-    school: School of Business
+    school: School of Energy
     program: {programName}
     title: {courseTitle}
     code: {courseCode}
