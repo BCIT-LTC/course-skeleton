@@ -1,14 +1,14 @@
 ---
 course info:
     school: School of Business
-    program: Operations Management
-    title: Project Communication & Team Management
-    code: OPMT-2515
+    program: {programName}
+    title: {courseTitle}
+    code: {courseCode}
 
-keywords: building teams, resolving conflicts, working as a team, communication models
+keywords: 
 
 production info:
-    date: March 2016
-    subject matter expert: Alex Whitehouse
-    instructional designer: Lauren Schutte
+    date: {productionEndDate}
+    subject matter expert: {sME}
+    instructional designer: {iDC}
 ---

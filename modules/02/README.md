@@ -1,6 +1,6 @@
 ---
 info:
-    title: Team strengths and building trust
+    title: {modTitle}
 
 keywords:
 ---

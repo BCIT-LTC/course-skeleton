@@ -1,6 +1,6 @@
 ---
 info:
-    title: Working as a project team
+    title: {modTitle}
 
 keywords:
 ---
