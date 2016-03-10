@@ -1,6 +1,6 @@
 ---
 info:
-    title: Developing team members
+    title: {modTitle}
 
 keywords:
 ---

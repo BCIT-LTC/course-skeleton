@@ -1,6 +1,6 @@
 ---
 info:
-    title: Planning effective communication
+    title: {modTitle}
 
 keywords:
 ---

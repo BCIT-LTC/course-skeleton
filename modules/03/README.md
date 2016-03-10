@@ -1,6 +1,6 @@
 ---
 info:
-    title: Interpersonal communication
+    title: {modTitle}
 
 keywords:
 ---

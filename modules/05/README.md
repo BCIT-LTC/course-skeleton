@@ -1,6 +1,6 @@
 ---
 info:
-    title: Communicating across cultures, generations and roles
+    title: {modTitle}
 
 keywords:
 ---

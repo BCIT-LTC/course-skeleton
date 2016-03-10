@@ -1,8 +1,6 @@
 ---
 info:
-    title: Communication models
+    title: {modTitle}
 
 keywords:
-assets:
-    interactive: hot spot
 ---
