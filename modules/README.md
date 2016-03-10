@@ -1,6 +1,6 @@
 ---
 info:
-    title: Project Communication & Team Management
+    title: {modTitle}
 
-keywords: building teams, resolving conflicts, working as a team, communication models
+keywords:
 ---
