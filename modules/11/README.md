@@ -1,6 +1,6 @@
 ---
 info:
-    title: {modTitle}
+    title: Building social networks
 
 keywords:
 ---

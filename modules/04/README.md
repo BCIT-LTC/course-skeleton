@@ -1,6 +1,6 @@
 ---
 info:
-    title: {modTitle}
+    title: Resolving team conflict
 
 keywords:
 ---
