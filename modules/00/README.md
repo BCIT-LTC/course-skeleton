@@ -1,0 +1,6 @@
+---
+info:
+    title: {modTitle}
+
+keywords:
+---
