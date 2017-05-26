@@ -1,6 +1,4 @@
 ---
-info:
-    title: {modTitle}
-
-keywords:
+title: {modTitle}
+keywords: []
 ---
